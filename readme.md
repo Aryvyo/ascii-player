@@ -6,6 +6,14 @@ Supports colour where there is 24-bit colour support, and runs at about 30fps, h
 
 I didn't tell you this but if you comment out the `time.sleep()` you could probably get 60fps, just saying...
 
+## Installation
+
+This should work on most versions of Python 3, and most modern terminals
+Just run
+
+` pip install -r requirements.txt `
+
+
 ## Usage 
 
 ` main.py [file] [-args] `
@@ -20,3 +28,5 @@ I didn't tell you this but if you comment out the `time.sleep()` you could proba
 ## 
 
 feel free to fork, star, do whatever! This was a fun 3 hour project
+
+sample image is courtesy of qdiffusion, go check it out!!!
