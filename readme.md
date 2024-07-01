@@ -29,4 +29,4 @@ Just run
 
 feel free to fork, star, do whatever! This was a fun 3 hour project
 
-sample image is courtesy of qdiffusion, go check it out!!!
+sample image is courtesy of (qdiffusion)[discord.gg/KJZ3T3fCpyp] , go check it out!!!
